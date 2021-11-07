@@ -1,0 +1,35 @@
+body{
+    background-image: url("Pic.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100%;
+   color:white;
+
+}
+h1{
+    padding-left: 700px;
+    padding-top: 50px;
+}
+table{
+    padding-top: 100px;
+    padding-left: 600px;
+    
+}
+a{
+    color:white;
+    
+    padding-left: 600px;
+}
+div{
+   
+    
+  
+    backdrop-filter: 5px ;
+}
+.submit:hover{
+    background-color:  rgb(160, 145, 145);
+    color:white; 
+}
+.submit{
+    border-radius:20%;
+
+}
